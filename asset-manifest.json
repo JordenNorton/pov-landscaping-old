@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pov-landscaping/static/css/main.e6c13ad2.css",
-    "main.js": "/pov-landscaping/static/js/main.72070a6c.js",
+    "main.js": "/pov-landscaping/static/js/main.078ce27b.js",
     "static/js/453.c14e06ee.chunk.js": "/pov-landscaping/static/js/453.c14e06ee.chunk.js",
     "index.html": "/pov-landscaping/index.html",
     "main.e6c13ad2.css.map": "/pov-landscaping/static/css/main.e6c13ad2.css.map",
-    "main.72070a6c.js.map": "/pov-landscaping/static/js/main.72070a6c.js.map",
+    "main.078ce27b.js.map": "/pov-landscaping/static/js/main.078ce27b.js.map",
     "453.c14e06ee.chunk.js.map": "/pov-landscaping/static/js/453.c14e06ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.72070a6c.js"
+    "static/js/main.078ce27b.js"
   ]
 }
